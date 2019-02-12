@@ -31,8 +31,8 @@
 				</activity>
   </config-file>
            <source-file src="src/android/SkBarcodePlugin.java" target-dir="src/android"/>
-           <source-file src="src/android/com.example.skbarcodexzing.MainActivity.java" target-dir="src/com/example/skbarcodexzing"/>
-		<source-file src="src/android/com.example.skbarcodexzing.BarcodeReaderFragment.java" target-dir="src/com/example/skbarcodexzing"/>
+           <source-file src="src/android/com/example/skbarcodexzing/MainActivity.java" target-dir="src/com/example/skbarcodexzing"/>
+		<source-file src="src/android/com/example/skbarcodexzing/BarcodeReaderFragment.java" target-dir="src/com/example/skbarcodexzing"/>
            <source-file src="src/android/res/layout/activity_main.xml" target-dir="res/layout"/>
            <source-file src="src/android/res/layout/fragment_barcode_reader.xml" target-dir="res/layout"/>
            <source-file src="src/android/res/drawable/ic_launcher_background.xml" target-dir="res/drawable-v24"/>
