@@ -33,8 +33,12 @@
            <source-file src="src/android/SkBarcodePlugin.java" target-dir="src/android"/>
            <source-file src="src/android/com/example/skbarcodexzing/MainActivity.java" target-dir="src/com/example/skbarcodexzing"/>
 		<source-file src="src/android/com/example/skbarcodexzing/BarcodeReaderFragment.java" target-dir="src/com/example/skbarcodexzing"/>
+
+
            <source-file src="src/android/res/layout/activity_main.xml" target-dir="res/layout"/>
            <source-file src="src/android/res/layout/fragment_barcode_reader.xml" target-dir="res/layout"/>
+
+
            <source-file src="src/android/res/drawable/ic_launcher_background.xml" target-dir="res/drawable-v24"/>
            <source-file src="src/android/res/drawable-v24/ic_launcher_foreground.xml" target-dir="res/drawable-v24"/>
            <source-file src="src/android/res/mipmap-anydpi-v26/ic_launcher.xml" target-dir="res/mipmap-anydpi-v26"/>
@@ -49,9 +53,13 @@
            <source-file src="src/android/res/mipmap-xxhdpi/ic_launcher_round.png" target-dir="res/mipmap-xxhdpi"/>
            <source-file src="src/android/res/mipmap-xxxhdpi/ic_launcher.png" target-dir="res/mipmap-xxxhdpi"/>
            <source-file src="src/android/res/mipmap-xxxhdpi/ic_launcher_round.png" target-dir="res/mipmap-xxxhdpi"/>
+
+
            <source-file src="src/android/res/values/colors.xml" target-dir="res/values"/>
-           <source-file src="src/android/res/values/strings.xml" target-dir="res/values"/>
-           <source-file src="src/android/res/values/styles.xml" target-dir="res/values"/>   
+          <!-- <source-file src="src/android/res/values/strings.xml" target-dir="res/values"/>-->
+           <source-file src="src/android/res/values/styles.xml" target-dir="res/values"/>
+
+
            		<framework src="com.android.support:support-v4:28.0.0"/>	
                 <framework src="com.journeyapps:zxing-android-embedded:3.6.0"/>	       		
                  <framework src="com.android.support.constraint:constraint-layout:1.1.3"/>	
