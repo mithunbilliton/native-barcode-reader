@@ -1,0 +1,17 @@
+{
+  "name": "com.example.plugin.SkBarcodePlugin",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.example.plugin.SkBarcodePlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
